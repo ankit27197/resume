@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(254, 254, 242);
+    border-style: double;
+    /* margin: 4.8em; */
+    /* width: 50%;
+    height: 50%; */
+    
+    margin: auto;
+    width: 50%;
+    
+}
+h2{
+    letter-spacing:2px;
+    
+}
+h5{
+    line-height: 1.5em;
+}
+hr{
+    text-shadow: rgb(17, 135, 238);
+    text-align:left ;
+    margin-left:0;
+    width: 80%;
+    
+}
+
+col-sm-3
+{
+    padding-left: 0%;
+
+}
