@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(254, 254, 242);
+    background-color:rgb(226, 226, 218) ;
     border-style: double;
     /* margin: 4.8em; */
     /* width: 50%;
@@ -28,4 +28,7 @@ col-sm-3
 {
     padding-left: 0%;
 
+}
+html{
+    background-color: rgb(254, 254, 242);
 }
